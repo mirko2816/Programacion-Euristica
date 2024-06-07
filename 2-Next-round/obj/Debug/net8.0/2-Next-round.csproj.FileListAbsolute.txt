@@ -1,0 +1,15 @@
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/2-Next-round/obj/Debug/net8.0/2-Next-round.GeneratedMSBuildEditorConfig.editorconfig
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/2-Next-round/obj/Debug/net8.0/2-Next-round.AssemblyInfoInputs.cache
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/2-Next-round/obj/Debug/net8.0/2-Next-round.AssemblyInfo.cs
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/2-Next-round/obj/Debug/net8.0/2-Next-round.csproj.CoreCompileInputs.cache
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/2-Next-round/obj/Debug/net8.0/2-Next-round.sourcelink.json
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/2-Next-round/bin/Debug/net8.0/2-Next-round
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/2-Next-round/bin/Debug/net8.0/2-Next-round.deps.json
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/2-Next-round/bin/Debug/net8.0/2-Next-round.runtimeconfig.json
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/2-Next-round/bin/Debug/net8.0/2-Next-round.dll
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/2-Next-round/bin/Debug/net8.0/2-Next-round.pdb
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/2-Next-round/obj/Debug/net8.0/2-Next-round.dll
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/2-Next-round/obj/Debug/net8.0/refint/2-Next-round.dll
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/2-Next-round/obj/Debug/net8.0/2-Next-round.pdb
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/2-Next-round/obj/Debug/net8.0/2-Next-round.genruntimeconfig.cache
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/2-Next-round/obj/Debug/net8.0/ref/2-Next-round.dll
