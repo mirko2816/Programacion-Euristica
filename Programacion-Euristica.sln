@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-Next-round", "2-Next-round\2-Next-round.csproj", "{029D2EA2-D645-4AB8-B193-2E6E5BABE5C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-Watermelon", "1-Watermelon\1-Watermelon.csproj", "{411CF9C8-F050-4A44-B0AC-FE3F39E15D8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{029D2EA2-D645-4AB8-B193-2E6E5BABE5C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{029D2EA2-D645-4AB8-B193-2E6E5BABE5C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{029D2EA2-D645-4AB8-B193-2E6E5BABE5C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{411CF9C8-F050-4A44-B0AC-FE3F39E15D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{411CF9C8-F050-4A44-B0AC-FE3F39E15D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{411CF9C8-F050-4A44-B0AC-FE3F39E15D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{411CF9C8-F050-4A44-B0AC-FE3F39E15D8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
