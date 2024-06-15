@@ -1,0 +1,15 @@
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/5-Helpful-Maths/bin/Debug/net8.0/5-Helpful-Maths
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/5-Helpful-Maths/bin/Debug/net8.0/5-Helpful-Maths.deps.json
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/5-Helpful-Maths/bin/Debug/net8.0/5-Helpful-Maths.runtimeconfig.json
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/5-Helpful-Maths/bin/Debug/net8.0/5-Helpful-Maths.dll
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/5-Helpful-Maths/bin/Debug/net8.0/5-Helpful-Maths.pdb
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/5-Helpful-Maths/obj/Debug/net8.0/5-Helpful-Maths.GeneratedMSBuildEditorConfig.editorconfig
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/5-Helpful-Maths/obj/Debug/net8.0/5-Helpful-Maths.AssemblyInfoInputs.cache
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/5-Helpful-Maths/obj/Debug/net8.0/5-Helpful-Maths.AssemblyInfo.cs
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/5-Helpful-Maths/obj/Debug/net8.0/5-Helpful-Maths.csproj.CoreCompileInputs.cache
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/5-Helpful-Maths/obj/Debug/net8.0/5-Helpful-Maths.sourcelink.json
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/5-Helpful-Maths/obj/Debug/net8.0/5-Helpful-Maths.dll
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/5-Helpful-Maths/obj/Debug/net8.0/refint/5-Helpful-Maths.dll
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/5-Helpful-Maths/obj/Debug/net8.0/5-Helpful-Maths.pdb
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/5-Helpful-Maths/obj/Debug/net8.0/5-Helpful-Maths.genruntimeconfig.cache
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/5-Helpful-Maths/obj/Debug/net8.0/ref/5-Helpful-Maths.dll
