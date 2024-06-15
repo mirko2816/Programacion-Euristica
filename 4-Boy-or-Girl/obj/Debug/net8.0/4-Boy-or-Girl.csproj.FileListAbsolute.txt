@@ -1,0 +1,15 @@
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/4-Boy-or-Girl/bin/Debug/net8.0/4-Boy-or-Girl
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/4-Boy-or-Girl/bin/Debug/net8.0/4-Boy-or-Girl.deps.json
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/4-Boy-or-Girl/bin/Debug/net8.0/4-Boy-or-Girl.runtimeconfig.json
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/4-Boy-or-Girl/bin/Debug/net8.0/4-Boy-or-Girl.dll
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/4-Boy-or-Girl/bin/Debug/net8.0/4-Boy-or-Girl.pdb
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/4-Boy-or-Girl/obj/Debug/net8.0/4-Boy-or-Girl.GeneratedMSBuildEditorConfig.editorconfig
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/4-Boy-or-Girl/obj/Debug/net8.0/4-Boy-or-Girl.AssemblyInfoInputs.cache
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/4-Boy-or-Girl/obj/Debug/net8.0/4-Boy-or-Girl.AssemblyInfo.cs
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/4-Boy-or-Girl/obj/Debug/net8.0/4-Boy-or-Girl.csproj.CoreCompileInputs.cache
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/4-Boy-or-Girl/obj/Debug/net8.0/4-Boy-or-Girl.sourcelink.json
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/4-Boy-or-Girl/obj/Debug/net8.0/4-Boy-or-Girl.dll
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/4-Boy-or-Girl/obj/Debug/net8.0/refint/4-Boy-or-Girl.dll
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/4-Boy-or-Girl/obj/Debug/net8.0/4-Boy-or-Girl.pdb
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/4-Boy-or-Girl/obj/Debug/net8.0/4-Boy-or-Girl.genruntimeconfig.cache
+/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/4-Boy-or-Girl/obj/Debug/net8.0/ref/4-Boy-or-Girl.dll
