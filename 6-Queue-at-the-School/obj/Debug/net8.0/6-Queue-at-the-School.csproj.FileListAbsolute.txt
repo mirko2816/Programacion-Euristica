@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Programacion-Euristica\6-Queue-at-the-School\bin\Debug\net8.0\6-Queue-at-the-School.exe
+C:\Users\Usuario\Desktop\Programacion-Euristica\6-Queue-at-the-School\bin\Debug\net8.0\6-Queue-at-the-School.deps.json
+C:\Users\Usuario\Desktop\Programacion-Euristica\6-Queue-at-the-School\bin\Debug\net8.0\6-Queue-at-the-School.runtimeconfig.json
+C:\Users\Usuario\Desktop\Programacion-Euristica\6-Queue-at-the-School\bin\Debug\net8.0\6-Queue-at-the-School.dll
+C:\Users\Usuario\Desktop\Programacion-Euristica\6-Queue-at-the-School\bin\Debug\net8.0\6-Queue-at-the-School.pdb
+C:\Users\Usuario\Desktop\Programacion-Euristica\6-Queue-at-the-School\obj\Debug\net8.0\6-Queue-at-the-School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Programacion-Euristica\6-Queue-at-the-School\obj\Debug\net8.0\6-Queue-at-the-School.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Programacion-Euristica\6-Queue-at-the-School\obj\Debug\net8.0\6-Queue-at-the-School.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Programacion-Euristica\6-Queue-at-the-School\obj\Debug\net8.0\6-Queue-at-the-School.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Programacion-Euristica\6-Queue-at-the-School\obj\Debug\net8.0\6-Queue-at-the-School.sourcelink.json
+C:\Users\Usuario\Desktop\Programacion-Euristica\6-Queue-at-the-School\obj\Debug\net8.0\6-Queue-at-the-School.dll
+C:\Users\Usuario\Desktop\Programacion-Euristica\6-Queue-at-the-School\obj\Debug\net8.0\refint\6-Queue-at-the-School.dll
+C:\Users\Usuario\Desktop\Programacion-Euristica\6-Queue-at-the-School\obj\Debug\net8.0\6-Queue-at-the-School.pdb
+C:\Users\Usuario\Desktop\Programacion-Euristica\6-Queue-at-the-School\obj\Debug\net8.0\6-Queue-at-the-School.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Programacion-Euristica\6-Queue-at-the-School\obj\Debug\net8.0\ref\6-Queue-at-the-School.dll
