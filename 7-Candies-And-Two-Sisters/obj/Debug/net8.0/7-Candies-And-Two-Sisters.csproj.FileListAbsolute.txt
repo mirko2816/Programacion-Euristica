@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\7-Candies-And-Two-Sisters\bin\Debug\net8.0\7-Candies-And-Two-Sisters.exe
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\7-Candies-And-Two-Sisters\bin\Debug\net8.0\7-Candies-And-Two-Sisters.deps.json
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\7-Candies-And-Two-Sisters\bin\Debug\net8.0\7-Candies-And-Two-Sisters.runtimeconfig.json
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\7-Candies-And-Two-Sisters\bin\Debug\net8.0\7-Candies-And-Two-Sisters.dll
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\7-Candies-And-Two-Sisters\bin\Debug\net8.0\7-Candies-And-Two-Sisters.pdb
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\7-Candies-And-Two-Sisters\obj\Debug\net8.0\7-Candies-And-Two-Sisters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\7-Candies-And-Two-Sisters\obj\Debug\net8.0\7-Candies-And-Two-Sisters.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\7-Candies-And-Two-Sisters\obj\Debug\net8.0\7-Candies-And-Two-Sisters.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\7-Candies-And-Two-Sisters\obj\Debug\net8.0\7-Candies-And-Two-Sisters.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\7-Candies-And-Two-Sisters\obj\Debug\net8.0\7-Candies-And-Two-Sisters.sourcelink.json
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\7-Candies-And-Two-Sisters\obj\Debug\net8.0\7-Candies-And-Two-Sisters.dll
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\7-Candies-And-Two-Sisters\obj\Debug\net8.0\refint\7-Candies-And-Two-Sisters.dll
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\7-Candies-And-Two-Sisters\obj\Debug\net8.0\7-Candies-And-Two-Sisters.pdb
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\7-Candies-And-Two-Sisters\obj\Debug\net8.0\7-Candies-And-Two-Sisters.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\7-Candies-And-Two-Sisters\obj\Debug\net8.0\ref\7-Candies-And-Two-Sisters.dll

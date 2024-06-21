@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-Boy-or-Girl", "4-Boy-or-G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-Helpful-Maths", "5-Helpful-Maths\5-Helpful-Maths.csproj", "{4461F9DC-BAFB-452C-838C-02EDD0FEB088}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-Queue-at-the-School", "6-Queue-at-the-School\6-Queue-at-the-School.csproj", "{32D93D1C-A4D6-4145-BA1A-4A6249966056}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-Candies-And-Two-Sisters", "7-Candies-And-Two-Sisters\7-Candies-And-Two-Sisters.csproj", "{78FABDD5-618B-4560-B043-CD2AE17C0310}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{4461F9DC-BAFB-452C-838C-02EDD0FEB088}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4461F9DC-BAFB-452C-838C-02EDD0FEB088}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4461F9DC-BAFB-452C-838C-02EDD0FEB088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32D93D1C-A4D6-4145-BA1A-4A6249966056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D93D1C-A4D6-4145-BA1A-4A6249966056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D93D1C-A4D6-4145-BA1A-4A6249966056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D93D1C-A4D6-4145-BA1A-4A6249966056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78FABDD5-618B-4560-B043-CD2AE17C0310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78FABDD5-618B-4560-B043-CD2AE17C0310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78FABDD5-618B-4560-B043-CD2AE17C0310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78FABDD5-618B-4560-B043-CD2AE17C0310}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
