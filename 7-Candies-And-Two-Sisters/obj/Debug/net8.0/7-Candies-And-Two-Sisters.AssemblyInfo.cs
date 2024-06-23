@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("7-Candies-And-Two-Sisters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2ec16abc8874de78f7ad7091a2b3162b7c2b477")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c475dd4f3c3b0e2c8606d07c999118a29b8df2d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("7-Candies-And-Two-Sisters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("7-Candies-And-Two-Sisters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
