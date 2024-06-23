@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\8-A-Tram\bin\Debug\net8.0\8-A-Tram.exe
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\8-A-Tram\bin\Debug\net8.0\8-A-Tram.deps.json
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\8-A-Tram\bin\Debug\net8.0\8-A-Tram.runtimeconfig.json
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\8-A-Tram\bin\Debug\net8.0\8-A-Tram.dll
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\8-A-Tram\bin\Debug\net8.0\8-A-Tram.pdb
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\8-A-Tram\obj\Debug\net8.0\8-A-Tram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\8-A-Tram\obj\Debug\net8.0\8-A-Tram.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\8-A-Tram\obj\Debug\net8.0\8-A-Tram.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\8-A-Tram\obj\Debug\net8.0\8-A-Tram.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\8-A-Tram\obj\Debug\net8.0\8-A-Tram.sourcelink.json
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\8-A-Tram\obj\Debug\net8.0\8-A-Tram.dll
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\8-A-Tram\obj\Debug\net8.0\refint\8-A-Tram.dll
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\8-A-Tram\obj\Debug\net8.0\8-A-Tram.pdb
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\8-A-Tram\obj\Debug\net8.0\8-A-Tram.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\a\Programacion-Euristica\8-A-Tram\obj\Debug\net8.0\ref\8-A-Tram.dll
