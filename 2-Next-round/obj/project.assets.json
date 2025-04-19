@@ -8,24 +8,31 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/mircopc/.nuget/packages/": {}
+    "C:\\Users\\mirko\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/2-Next-round/2-Next-round.csproj",
+      "projectUniqueName": "D:\\Programacion-Euristica\\2-Next-round\\2-Next-round.csproj",
       "projectName": "2-Next-round",
-      "projectPath": "/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/2-Next-round/2-Next-round.csproj",
-      "packagesPath": "/home/mircopc/.nuget/packages/",
-      "outputPath": "/home/mircopc/Documents/DirectorioLocalGit/Programacion-Euristica/2-Next-round/obj/",
+      "projectPath": "D:\\Programacion-Euristica\\2-Next-round\\2-Next-round.csproj",
+      "packagesPath": "C:\\Users\\mirko\\.nuget\\packages\\",
+      "outputPath": "D:\\Programacion-Euristica\\2-Next-round\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/mircopc/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\mirko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -38,7 +45,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -59,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

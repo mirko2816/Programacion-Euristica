@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("6-Queue-at-the-School")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f34f749a8a85db416a927950cc0a97c41d9de542")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4752590f574f4fdc4b7e7dd83283ecceaa3d1b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("6-Queue-at-the-School")]
 [assembly: System.Reflection.AssemblyTitleAttribute("6-Queue-at-the-School")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

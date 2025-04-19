@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2-Next-round")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9494ed7766ef5a286003af8b564f584a6b3411ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4752590f574f4fdc4b7e7dd83283ecceaa3d1b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("2-Next-round")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2-Next-round")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
